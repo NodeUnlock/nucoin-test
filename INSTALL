@@ -1,0 +1,9 @@
+Building Nucoin
+
+See doc/readme-qt.rst for instructions on building Nucoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Nucoin.
+
+See doc/build-*.txt for instructions on building nucoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Nucoin.
